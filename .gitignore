@@ -3,3 +3,11 @@ node_modules
 artifacts
 cache
 .gitignore
+gas-report.txt
+
+
+deployments
+
+coverage
+coverage.json
+typechain
